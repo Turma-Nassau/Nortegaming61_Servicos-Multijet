@@ -5,7 +5,7 @@
 
 # <h2>📚Funcionalidades</h2>
 <ul>
-  <li>Este site tem o intuito de auxiliar a loja Multijet na venda de produtos de informática, solicitações de serviços, orçamentos, aluguel de impressoras, etc.</li>
+  <li>Este site tem o intuito de auxiliar a loja Multijet nas solicitações de serviços, orçamentos, aluguel de impressoras, recargas de cartuchos, etc.</li>
 </ul>
 
 # <h2>🔧Tecnologias Utilizadas</h2>
