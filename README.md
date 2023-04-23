@@ -5,12 +5,9 @@
 
 # <h2>📚Funcionalidades</h2>
 <ul>
-  <li>- Locação de impressoras
-Oferecemos uma ampla gama de opções de impressoras para locação, incluindo modelos de impressoras a jato de tinta, laser e multifuncionais. Nossas impressoras são de alta qualidade e oferecem excelente desempenho, além de serem fáceis de usar e manter.</li>
-  <li>- Consertos de notebooks, desktops e impressoras
-Oferecemos serviços de reparo e manutenção de notebooks, desktops e impressoras para solucionar uma ampla gama de problemas, desde problemas de software até problemas de hardware. Nossa equipe de técnicos altamente qualificados tem o conhecimento e a experiência necessários para diagnosticar e reparar rapidamente seu equipamento, garantindo que você volte a usá-lo o mais rápido possível.</li>
-  <li>- Recarga de cartuchos e toners
-Oferecemos serviços de recarga de cartuchos de tinta e toners para ajudar nossos clientes a economizar dinheiro e reduzir o desperdício. Nossos serviços de recarga de cartuchos são de alta qualidade e funcionarão tão bem quanto os originais. Oferecemos recarga de cartuchos para uma ampla variedade de modelos de impressoras, incluindo impressoras a jato de tinta e laser.</li>
+  <li>- Locação de impressoras: Oferecemos uma ampla gama de opções de impressoras para locação, incluindo modelos de impressoras a jato de tinta, laser e multifuncionais. Nossas impressoras são de alta qualidade e oferecem excelente desempenho, além de serem fáceis de usar e manter.</li>
+  <li>- Consertos de notebooks, desktops e impressoras: Oferecemos serviços de reparo e manutenção de notebooks, desktops e impressoras para solucionar uma ampla gama de problemas, desde problemas de software até problemas de hardware. Nossa equipe de técnicos altamente qualificados tem o conhecimento e a experiência necessários para diagnosticar e reparar rapidamente seu equipamento, garantindo que você volte a usá-lo o mais rápido possível.</li>
+  <li>- Recarga de cartuchos e toners: Oferecemos serviços de recarga de cartuchos de tinta e toners para ajudar nossos clientes a economizar dinheiro e reduzir o desperdício. Nossos serviços de recarga de cartuchos são de alta qualidade e funcionarão tão bem quanto os originais. Oferecemos recarga de cartuchos para uma ampla variedade de modelos de impressoras, incluindo impressoras a jato de tinta e laser.</li>
 </ul>
 
 # <h2>🔧Tecnologias Utilizadas</h2>
