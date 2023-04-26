@@ -5,7 +5,7 @@ const endpointsFiles = ['./server.js'];
 const docs = {
     info: {
         version: "1.0.0",
-        title: "GreenWallet API",
+        title: "Site para Serviços",
         description: "WEBsite para solicitação de serviços"
     },
     host: "localhost:8000",
